@@ -1,0 +1,1 @@
+const cloneObject = (object) => ({ ...object });
